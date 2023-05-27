@@ -51,31 +51,13 @@ namespace Ordenamiento1
         }
 
 
-        public void Insertar_Dato(int dato)
-        {
-            Array.Resize<int>(ref arreglo, longitud + 1);
-            arreglo[longitud] = dato;
-            Array.Resize<Button>(ref arreglo_botones, longitud + 1);
-            arreglo[longitud] = dato;
-            arreglo_botones[longitud] = new Button();
-            arreglo_botones[longitud].Width = 50;
-            arreglo_botones[longitud].Height = 50;
-            arreglo_botones[longitud].BackColor = Color.GreenYellow;
-            arreglo_botones[longitud].Text = dato.ToString();
-            Calcular_Longitud();
-        }
-
-
-        public Button[] Arreglo_Botones()
-        {
-            return arreglo_botones;
-        }
+     
     }
 
-    
 
 
-   
 
-    
+
+
+
 }
