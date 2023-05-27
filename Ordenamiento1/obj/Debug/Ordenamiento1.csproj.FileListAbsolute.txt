@@ -1,0 +1,10 @@
+C:\Users\Administrador\Desktop\DavidMuñoz\Ordenamiento1\Ordenamiento1\bin\Debug\Ordenamiento1.exe.config
+C:\Users\Administrador\Desktop\DavidMuñoz\Ordenamiento1\Ordenamiento1\bin\Debug\Ordenamiento1.exe
+C:\Users\Administrador\Desktop\DavidMuñoz\Ordenamiento1\Ordenamiento1\bin\Debug\Ordenamiento1.pdb
+C:\Users\Administrador\Desktop\DavidMuñoz\Ordenamiento1\Ordenamiento1\obj\Debug\Ordenamiento1.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\DavidMuñoz\Ordenamiento1\Ordenamiento1\obj\Debug\Ordenamiento1.Form1.resources
+C:\Users\Administrador\Desktop\DavidMuñoz\Ordenamiento1\Ordenamiento1\obj\Debug\Ordenamiento1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\DavidMuñoz\Ordenamiento1\Ordenamiento1\obj\Debug\Ordenamiento1.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\DavidMuñoz\Ordenamiento1\Ordenamiento1\obj\Debug\Ordenamiento1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\DavidMuñoz\Ordenamiento1\Ordenamiento1\obj\Debug\Ordenamiento1.exe
+C:\Users\Administrador\Desktop\DavidMuñoz\Ordenamiento1\Ordenamiento1\obj\Debug\Ordenamiento1.pdb
